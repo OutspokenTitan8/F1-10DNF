@@ -26,7 +26,7 @@ table, th, td {
 <body>
 <table class="infobox" style="width:100%; ">
 <tr>
-<td colspan="2"><img src="https://www.dropbox.com/scl/fi/840tmkeg04xntdgtbbwtw/AustraliaCircuit.png?rlkey=5re6f0cv9s96mqupwbs4dcicm&st=p1axdufa&raw=1" width="60%" height="60%">
+<td colspan="2"><img src="https://www.dropbox.com/scl/fi/3yomljswuo2pjy2eot2kg/track_preview_placeholder.jpeg?rlkey=a9ezhcau20pcbngicos3prwco&st=j38mumv9&raw=1" width="60%" height="60%">
 </td>
 </tr>
 <tr class="trclass exempt"> <td colspan="2" background-color="gold" > Session Times </td></tr>
